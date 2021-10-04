@@ -18,7 +18,7 @@ const Service = () => {
                 <h1 className="m-5">Our Service & course</h1>
                 <div className="row row-cols-1 row-cols-md-2 g-4">
                         {
-                            state.length===12 ? <Spinner style={{margin:'20px',display:'flex', justifyContent:'center'}} animation="border" variant="danger" />:
+                            state.length===0 ? <Spinner style={{margin:'20px',display:'flex', justifyContent:'center'}} animation="border" variant="danger" />:
                             state.map(course=><Allcourse key={course.id} course={course}></Allcourse>)
                         }           
                 </div>
