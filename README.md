@@ -8,6 +8,12 @@ it's easy to learn from home
 There don't have any hasel 
 happy learing & enjoy our education systam
 
+How to help we are
+Class from home
+Give you all notes and material
+easy to access
+
+
 ## Available Scripts
 
 In the project directory, you can run:
