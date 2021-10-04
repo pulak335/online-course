@@ -1,12 +1,30 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://615aede50a299200e6e55325--stupefied-pasteur-3aa1d6.netlify.app/).
+
+
+live preview: https://615aede50a299200e6e55325--stupefied-pasteur-3aa1d6.netlify.app/
+
+
 
 this app for e-learning online system
+
 This e-learning system is helping you for grow your skills
+
 it's easy to learn from home
+
 There don't have any hasel 
+
 happy learing & enjoy our education systam
+
+How to help we are:-------------------------
+
+Class from home
+
+Give you all notes and material
+
+easy to access
+
 
 ## Available Scripts
 
